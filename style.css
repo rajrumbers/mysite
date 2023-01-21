@@ -1,0 +1,53 @@
+.first{
+    background-color:paleturquoise;
+    padding-top: 100px;
+    position: relative;
+    padding-bottom: 100px;
+   
+   
+}
+hr{
+ 
+    border-style: dotted none none none ;
+   border-width: 5px;
+   border-color: darkorange;
+   height: 0;
+   width: 70%;
+
+}
+#img2{
+    position: absolute;
+    left: 350px;
+    bottom: 300px;
+   
+}
+#img1{
+    position: absolute;
+    right: 430px;
+    top: 50px;
+    
+}
+#name{
+    margin-top: 0;
+
+ 
+
+}
+.second{
+    background-color:paleturquoise;
+   
+
+
+}
+
+.thrid{
+   
+    background-color:paleturquoise;
+   
+
+}
+body{
+    margin: 0;
+    text-align: center;
+    font-family: cursive;
+}
